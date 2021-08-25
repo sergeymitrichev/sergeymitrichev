@@ -1,4 +1,8 @@
-### Hi there 👋
+![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=sergeymitrichev&show-avatar=false)
+
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sergeymitrichev)
+
+
 
 <!--
 **sergeymitrichev/sergeymitrichev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
